@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CHAI
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on learning ...
+- 👋 Hi, I'm @CHAI, a React Developer.
+- 👀 I’m interested in leveraging React to create dynamic and innovative web solutions.
+- 🌱 I'm currently enhancing my skills in advanced React concepts and exploring new libraries to elevate my development expertise.
+- 💞️ I’m looking to collaborate on learning opportunities and projects related to React development to expand my knowledge and contribute to impactful projects.
 - 📫 Email: keshab3886@gmail.com
 
 <!---
